@@ -1,6 +1,6 @@
 # Smart Weather Planner 
 
-A smart activity planner that uses real-time weather data to suggest optimal times for outdoor activities. Built with modern web technologies and AI-powered recommendations.
+A smart activity planner that uses real-time weather data to suggest optimal times for outdoor activities. Built using Cloudflare Workers, Pages, and Workflow Components and APIs
 
 ## Features 
 
@@ -49,3 +49,6 @@ With more time, I would add:
 5. Activity-specific recommendations
 
 Feel free to reach out with any questions!
+
+P.S
+Thank you to Cloudflare for this opportunity, I had a lot of fun reading the documentation and watching the tutorial videos on your YouTube channel. I was reminded why I like programming in the first place. Really appreciate everything you guys do for internet privacy and security :) 
